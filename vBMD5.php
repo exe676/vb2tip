@@ -5,7 +5,7 @@
  * Author: NewEraCracker
  * License: Public Domain
  *
- * Dedicated to ForumScriptz s
+ * Dedicated to ForumScriptz
  */
 
 // ==========
